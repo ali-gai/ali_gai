@@ -1,3 +1,8 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image Aug 22, 2025, 09_35_35 PM" src="https://github.com/user-attachments/assets/19bbecab-1737-4f3e-8991-06bf071a53ce" />
+
+
+
 # 👋 Hi, I'm Ali Raza
 
 I'm a Generative AI enthusiast and emerging machine learning practitioner with a growing interest in applying deep learning to real-world problems. I’m currently focused on developing models in **Generative AI**, including foundational work in NLP, image generation, and custom predictive systems.
