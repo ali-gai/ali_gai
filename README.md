@@ -1,5 +1,7 @@
 
-<img width="1536" height="1024" alt="ChatGPT Image Aug 22, 2025, 09_35_35 PM" src="https://github.com/user-attachments/assets/19bbecab-1737-4f3e-8991-06bf071a53ce" />
+<p align="center">
+  <img src="ali-repo.png" alt="Ali Raza Banner" width="100%">
+</p>
 
 
 
